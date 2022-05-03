@@ -1,0 +1,16 @@
+Package: rt4sv++
+Version: 1.36
+Architecture: amd64
+Maintainer: Michal Durjasz <md@astro.umk.pl>
+Filename: pool/main/rt4sv++_1.36-1_amd64.deb
+Size: 48672632
+MD5sum: df49592f47469e3db1446557a1edc3a8
+SHA1: 1193823b215b69bcd5dee655cc360ef40dd8bef0
+SHA256: e5e6755914700cf5ce412030d1ec8e6281c1b09cca19caa3435e1e55395ded64
+Section: base
+Priority: optional
+Homepage: https://github.com/dachshund-ncu/rt4svpp
+Description: rt4sv++
+  For visualizing rt4 data.
+   Version 1.36
+

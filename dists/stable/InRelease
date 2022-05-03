@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: RT4SV++
+Label: Data visiualizer
+Suite: stable
+Codename: stable
+Version: 1.36
+Architectures: amd64
+Components: main
+Description: A tool to visualize 32m NCU radio telescope single-dish data
+Date: Mon, 02 May 2022 10:49:02 +0000
+MD5Sum:
+ dad83e8677cf8b30bc25490bc3427cd1 358 main/binary-amd64/Packages.gz
+ cbe3171b540e63748ea9d1407f1a23d8 467 main/binary-amd64/Packages
+SHA1:
+ d77bdb0de9680ed5b824ee1035e54661b9147078 358 main/binary-amd64/Packages.gz
+ 57725ad113a2d2e1151978193ea97f03380851e9 467 main/binary-amd64/Packages
+SHA256:
+ c5c6ccac27bd862ed58687956c0d9743e32f18ce30e1cf80f48c47ae6698b721 358 main/binary-amd64/Packages.gz
+ f00974a14c82edb1aa246758c80b91d9ba5c0afe6834dbddd913ac9987f1a01c 467 main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJEBAEBCAAuFiEEjdrKvgf8g7hiENUxPf/IhTJI3e0FAmJwcKwQHG1kQGFzdHJv
+LnVtay5wbAAKCRA9/8iFMkjd7WiBEACX5SZ0rbXJf2amhJXZSYl8R7szMg2FXkKN
+3s3DTkPPOnQBJYB9L97haBj9Kqh4KAEUSPCbWR8CJg0v787p9dV7uYX2DpJgrw96
+rscwEoTp/XQBI2rP/rboaYvKjD/7iJYijqLnFWpfsO+XSUtk3NIcLE4HSN2up/r3
+Znq8oZJfXQ+P9o41vg+P+mGfP2DzDLMXO2Opcdx/8VC6vhMSKM/H+wtrm5z9nNGZ
+uaqXpNgJX/0KdHKHpiTQzc3ZzXYirfX/p3TFvDjNt4O/l8onm8ym4GEZIRxQ9jui
+ugT/aiIJZPhFvbSM1oOF9TmrxMz8isrJ2xBxSsr+hazmVcW5TtrzrDgvntObxk0u
+91D0EglQi86WjAmKmB2nLezPpLNfeZzVbyvZcaypPC0Tnjn9bPDVdntlR6Ry3pTV
+Ed2/ekOYY3RUCivzNJJWFEEHECOtpw8uayudFmQTgxsGkkiLyPnoOKdW/r0IYnw7
+LLzrTgeZL0iCGDsMSruOKtH6zJqpj2RXfXb60D6b6zgXgCPwGBpUvkzHvYQBEeow
+QP/sdisLGpMxjyByQ1kEQ6miM9kifKHxiiLojfFuYhsfQx2QsJHU83OtiWloEJLy
+xWRrlMJIOxhDgc9Bxi7ou557N1FDlWDzPoSJbdn6OQ9sM7sxp8GX9o5C4qJm6iLF
+JmlEZr2dwQ==
+=GkFd
+-----END PGP SIGNATURE-----
