@@ -1,1 +1,1 @@
-deb https://dachshund-ncu.github.io/rt4svpp_ppa stable main
+deb [arch=amd64] https://dachshund-ncu.github.io/rt4svpp_ppa stable main
