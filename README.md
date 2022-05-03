@@ -1,4 +1,4 @@
-# PPa repository for RT4SV++
+# PPA repository for RT4SV++
 App source code: https://github.com/dachshund-ncu/rt4svpp
 
 To install just type:
