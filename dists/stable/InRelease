@@ -9,51 +9,42 @@ Version: 1.37
 Architectures: amd64
 Components: main
 Description: A tool to visualize 32m NCU radio telescope single-dish data
-Date: Sat, 07 May 2022 04:26:49 +0000
+Date: Sat, 07 May 2022 05:01:09 +0000
 MD5Sum:
  453fb816efc4e562505c376800e04407 1635 dists/stable/KEY.gpg
- 4fa76dabfba6d65d9c2bcbc9b53e7145 3259 dists/stable/InRelease
- b31b2e8110d795ede8b79708c81fce9e 365 dists/stable/Release
- 97a1bcdd38b20068dbaf7e7dba823921 355 dists/stable/main/binary-amd64/Packages.gz
- 6952b02750c8a9f9a0640827b373fb24 466 dists/stable/main/binary-amd64/Packages
- 5fa3b0dd0b8f30e556a1b044d610914f 858 dists/stable/Release.gpg
+ a9400cdae7f2c3637dacab1571db4a1e 303 dists/stable/Release
+ 33ffc54655d4f687a6b77c53a964efb5 364 dists/stable/main/binary-amd64/Packages.gz
  ae505544231f2578dc0bd4c45acffe4b 371 README.md
  6b24b7ee65369bf0e8e30e26d7b7a34a 72 rt4svpp.list
  cb2dd047b36e4495a9416f7dd11999bc 9455268 pool/main/rt4sv++_1.37-1_amd64.deb
 SHA1:
  30eb0feb1595b57a37301841798e5fbfdaa65b71 1635 dists/stable/KEY.gpg
- 2c18e5e9550318e564481d28933dad4a25376905 3259 dists/stable/InRelease
- 0b483fdaba76a49753362de5a48b18c935128038 965 dists/stable/Release
- 618d6832456ced32ac0c065b292ccb649d81b4b9 355 dists/stable/main/binary-amd64/Packages.gz
- 0d78f8c8baa484ae20162525f431ad9fd67e2a1b 466 dists/stable/main/binary-amd64/Packages
- bdab0cb4abcecc446e00eb5f82f468cb8933bd01 858 dists/stable/Release.gpg
+ 61c931fa69fed4f4db7c62da78df49089ef133f5 692 dists/stable/Release
+ 24108e1efe5e52ea75b0d15711d9f1d8c6e945ea 364 dists/stable/main/binary-amd64/Packages.gz
  64a0bb7b6ed7a56f23006d28d63c572748f078a6 371 README.md
  b35ee223e89d21e0b323207d81ef64c669db4f9e 72 rt4svpp.list
  d3cc3db13ee9a59b8a6315c62dd0c90e233a0ac1 9455268 pool/main/rt4sv++_1.37-1_amd64.deb
 SHA256:
  3120661337eeb00066c5de994168dafe79ef5910641d981be1c79ed0f305dfa5 1635 dists/stable/KEY.gpg
- 75eb2504b0ebab7509ca21c0563e5905fefe4a5439fe107723905365600958eb 3259 dists/stable/InRelease
- 4ca54410af74dd8c77d00dd2491d86f3881f9e5eb99030e386da610823d33268 1671 dists/stable/Release
- eeb404c5943892b641030ef746a5860cf9fa584a2a6feff069ff7cc7d3714698 355 dists/stable/main/binary-amd64/Packages.gz
- d31f5fd9f4f67e5cd1a3065657a2a82e5639397d6cf034911c89a0dbeb351290 466 dists/stable/main/binary-amd64/Packages
- 152411fee131a1453a4e3bd6658a24c2976e03b3eff8afa1d06a7d4c913fb74e 858 dists/stable/Release.gpg
+ b0a6b017c13b1cbddf6e53d8809d040015e3b4592b52aade428a482f65cba2b7 1147 dists/stable/Release
+ a6696f4ae5c76805464a7833e8b88a7179d2105790d22ae05d60de0e5661ada2 364 dists/stable/main/binary-amd64/Packages.gz
  8ba876aece743b643e9c1d14b8a3abe8274158489fe79f2a301e83c788f3e6f7 371 README.md
  68ced69cb512cbe57768e138d1810a335a4293459e47e02a2e88466dc9c89729 72 rt4svpp.list
  6347b962c1d830df295ec94930370550c8b522490539af1b1e4a8a167b57e36b 9455268 pool/main/rt4sv++_1.37-1_amd64.deb
 -----BEGIN PGP SIGNATURE-----
 
-iQJEBAEBCAAuFiEE2E3EJpvIZvOaoa9szJtWotQoyMkFAmJ19RkQHG1kQGFzdHJv
-LnVtay5wbAAKCRDMm1ai1CjIyXJUD/9K4w2a1W0Zgd7P5HojT1IkzKl3uEAbo16J
-5FnNraGXG513C2ysgZJPOKMuw1Oe5yxu8d3XZ8HSVK21mu0F19sWaiAS8j/PQlko
-ie9M8ApUS8iO58IBRByIlrb8ZIUImayDtfQa/po41vyiz0v+tmrYpSfpqu8G2k5M
-1yTCQ+gB/yQ6bGAfm7JjSqiNSFOIv+FflzhMKdo9xkvSYa2UBLss/9ecPuG7re+1
-o7L3dnSp9qNHTnRXaoMQDZRKU7xcT/l/vSvPD1xfspuRMv/Y6I0eA+fE8D8bpPH+
-NJ3VwokpOHBT0dE2ssxUCIgEZced43BdNQWjKe+lE36aouqE9dNGqkQ8dQli6049
-nOJUs8jbU8+vsji+325Mz32ePSqz9Bprxu2WDeQsoog2ivCHwm9KAJsrQBy3gC4d
-5YFtVyZqyIRu5hruAOV33NJNkGpjHnoXbzravGzZTzXDJ8FC6eK6akrRKELdir+1
-woI82jMmJBmlPz5LlkxEOrwROXoaHk3SFI7DeDMKmgid3QgPYeKPYNGe4rXhZ6Ho
-ZoJLlX1W+TIS4KtF5rLdnZQvl/B3HhtSNHYanHiSfqcU0yWUGeGHmq+Qrbl8Gtmr
-xdIpgc3ekHaZG9glG8X9zz6N1tAPjFnym9sc2ITJHXtxblab5mcALnI4n3935UOg
-KQsm3V59tg==
-=cPoY
+iQJEBAEBCAAuFiEE2E3EJpvIZvOaoa9szJtWotQoyMkFAmJ1/SsQHG1kQGFzdHJv
+LnVtay5wbAAKCRDMm1ai1CjIyUcWD/wMTwgLO8VsHLSjjqdXHGyVthQZjU8HqrIL
+Z6820bP2LLe56j8JjBtwOlrEfIYsRpKrsOU1DmyrzdDLQjEPQqj29rtjqyWOsODV
+jns/8/BGs2iSVjvFTYmwg53IUlQrM+44cnXVM/HKB5kW5GJBII0dqBXPCh+joqtb
+jg4ewEbdJLtglUi/Thzl5eGJo3TN/QfB7wt24gz7/63KXY8/A8LjixjKw08C9K68
+eeGk7z4E1VctlJpl+l1OHQt9yHWehuaNK/kiagkxEoBNUIq73TO2ttTV0jis1HFw
+rqrzJY7Gwsp/Sinuj0McTL6DhvjFIuVngF9rdGlFMhrVL2ZzUBJ4bBGn3zq5rAOc
+HranrrKGOFOv6ZAQUdPXA+jdHXtiQ0jJhUNUpSKXLY987StgaCQS2SxBijC6LW73
+3chWFiP5TkG9ZTmyKNRZcpnafErVorT/tXSfcsoqgJihN50VlCgyBpU0ThkLYNaB
+l8lsmcE4Fk4cWuMe2Ui4GPjkoo4QXPu4fig9jEih2pOFyDEzDog3Y54XF9eUP4nn
+1Zl0lpFuJeOwbQrbeqH3fkNGrKusYLn2qYVEMSvpxRtb3RReOERlYAY2jaQzzeaE
+8fhZxLk6tiR1Xy+c1HpWKDCeFn4NH9mYeKJtWuo88w2NrgIb8a8803gWtOgD4sxM
+q7x/MJIcgw==
+=Hg0w
 -----END PGP SIGNATURE-----
