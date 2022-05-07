@@ -3,37 +3,37 @@ Label: Data visiualizer
 Suite: stable
 Codename: stable
 Version: 1.37
-Architectures: amd64
+Architectures: binary-amd64
 Components: main
 Description: A tool to visualize 32m NCU radio telescope single-dish data
-Date: Sat, 07 May 2022 03:35:38 +0000
+Date: Sat, 07 May 2022 03:47:58 +0000
 MD5Sum:
  453fb816efc4e562505c376800e04407 1635 dists/stable/KEY.gpg
- 26483b5543f53ea7b950998a109de9a4 3259 dists/stable/InRelease
- 198bda0421e2762225c28b7dff8abcec 365 dists/stable/Release
- a141963f35c0f6e7b51d560f0fc6b8c6 355 dists/stable/main/binary-amd64/Packages.gz
+ ed66e997d8fcd074eeacc51c88fd07b3 3259 dists/stable/InRelease
+ f76d8481d6b357be923648a5e68d08a2 372 dists/stable/Release
+ e22cba565d847530ea4e5c7fc18de651 355 dists/stable/main/binary-amd64/Packages.gz
  6952b02750c8a9f9a0640827b373fb24 466 dists/stable/main/binary-amd64/Packages
- b533d6bb3721ccfea1cd4d69b2093a13 858 dists/stable/Release.gpg
+ 4d46c28429745587909d2395f2cd4fa1 858 dists/stable/Release.gpg
  ae505544231f2578dc0bd4c45acffe4b 371 README.md
  6b24b7ee65369bf0e8e30e26d7b7a34a 72 rt4svpp.list
  cb2dd047b36e4495a9416f7dd11999bc 9455268 pool/main/rt4sv++_1.37-1_amd64.deb
 SHA1:
  30eb0feb1595b57a37301841798e5fbfdaa65b71 1635 dists/stable/KEY.gpg
- 5c917b00da91556628afe905ed7874bdd1e6abcd 3259 dists/stable/InRelease
- ad90d6f80538d4db3e4b9259c150cef2f8b4fffc 965 dists/stable/Release
- 2c4777f6bdd999830f5301e19b58cdc6aa421f00 355 dists/stable/main/binary-amd64/Packages.gz
+ 8e921f8cde8b63fed1f1bd2dd7d594601142c083 3259 dists/stable/InRelease
+ 5300de90f6849e185b636824ac9a2d4975e4f80f 972 dists/stable/Release
+ 37a88b2e2dfd58cf122fc14e841d861112b51c26 355 dists/stable/main/binary-amd64/Packages.gz
  0d78f8c8baa484ae20162525f431ad9fd67e2a1b 466 dists/stable/main/binary-amd64/Packages
- 811a1c18e10fe5bc065167f8d238b7c4ef1bfe09 858 dists/stable/Release.gpg
+ 547cfb9ede8942871a86e311d011eac3ec65f6a3 858 dists/stable/Release.gpg
  64a0bb7b6ed7a56f23006d28d63c572748f078a6 371 README.md
  b35ee223e89d21e0b323207d81ef64c669db4f9e 72 rt4svpp.list
  d3cc3db13ee9a59b8a6315c62dd0c90e233a0ac1 9455268 pool/main/rt4sv++_1.37-1_amd64.deb
 SHA256:
  3120661337eeb00066c5de994168dafe79ef5910641d981be1c79ed0f305dfa5 1635 dists/stable/KEY.gpg
- 329b497136ea3f64e43ffb54e742a2c70fe1f74b72f4b3773004071a3d0ab46a 3259 dists/stable/InRelease
- 5114100d5abcc9af233ad9eff41dbada38c37369fb6666976a731970c3d0b81f 1671 dists/stable/Release
- 7c1a3e2337c5e71fe81b182ba998fe67c23511e69a86e266e68053ea7a9e6969 355 dists/stable/main/binary-amd64/Packages.gz
+ a8359ceac597ee3b1aa7dc0e78dde6a9dd3fec9dda7c7e021273ca60215c9094 3259 dists/stable/InRelease
+ 7376164100e3c9d5b076f02955d0252cf9564469df2980d097b3d769dbde1a5f 1678 dists/stable/Release
+ 9f232e106aa83af126a5f62933a34c5f56aed3bfed10a9680032317cddfb4196 355 dists/stable/main/binary-amd64/Packages.gz
  d31f5fd9f4f67e5cd1a3065657a2a82e5639397d6cf034911c89a0dbeb351290 466 dists/stable/main/binary-amd64/Packages
- 2ffa30e1b06ca0dce5a6124c9ef275de44a422356ccb072ca736ead300e684c2 858 dists/stable/Release.gpg
+ 3ca9d88b4b8eba1f0cc179cbd6458d46a2ca80a843a924edc2f2f87ab1210978 858 dists/stable/Release.gpg
  8ba876aece743b643e9c1d14b8a3abe8274158489fe79f2a301e83c788f3e6f7 371 README.md
  68ced69cb512cbe57768e138d1810a335a4293459e47e02a2e88466dc9c89729 72 rt4svpp.list
  6347b962c1d830df295ec94930370550c8b522490539af1b1e4a8a167b57e36b 9455268 pool/main/rt4sv++_1.37-1_amd64.deb
