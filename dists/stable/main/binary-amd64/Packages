@@ -5,11 +5,11 @@ Priority: optional
 Section: base
 Maintainer: Michal Durjasz <md@astro.umk.pl>
 Filename: pool/main/rt4svpp_1.38-2_amd64.deb
-Size: 9191772
-MD5sum: 2e05f98772516c76ac0f2506e1b37656
-SHA1: 3ed5fb13fa51e7bdeed7b0ffe077d03e4d47887f
-SHA256: 1675c6db0c89b5a70c1bc236e8d12bed90849cebbb067524c61e9b17b4ea9150
-SHA512: c178e99d901940d5bbe60d598f9aaa516d6b89bc0d310836bfce4b1fa357067cdbe9c3a15905961e101ada49cfa12ae981082c1f32d1e017b84ed386207ceaa2
+Size: 9453636
+MD5sum: 09d7ff2c56426bb8ea7b476240f4c287
+SHA1: 0c19cae65f7844a2808f9016112633f59cb6d0bd
+SHA256: 9ac89cbc630b566ced114dff5b57f5944845d173de04fb0d188422f1f4d963a8
+SHA512: 4004407714a53d8edcd8413d9d2642fc5c590553780c0fb63fa31b6f0d5c6c786675f3ca3a885aae56adaaef8dd996fd33d1d15699815216c33422a3e9fd34d6
 Homepage: https://github.com/dachshund-ncu/rt4svpp
 Description: rt4sv++
   For visualizing rt4 data.
