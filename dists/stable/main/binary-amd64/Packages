@@ -1,17 +1,17 @@
 Package: rt4svpp
 Architecture: amd64
-Version: 1.40
+Version: 1.41
 Priority: optional
 Section: base
 Maintainer: Michal Durjasz <md@astro.umk.pl>
-Filename: pool/main/rt4svpp_1.40-3_amd64.deb
-Size: 9462284
-MD5sum: 916c8128ebd497d145963fd930c74b74
-SHA1: 795a410a92e73fa6c90c5263f45aa38999634080
-SHA256: 23a49434e2eb9e411b80b0f081e50b2fb59e94ad4a43da3793e00fbf1c6fcb7a
-SHA512: 07b01642d640917542fea6138a41e23139920cb3544a8d2a37ebf9193b062fcb8ac50b46aa2067c614ad46c272c426408e326eb4893175c390f61607b6d25e29
+Filename: pool/main/rt4svpp_1.41-4_amd64.deb
+Size: 9493152
+MD5sum: c463eafe56031746c1ff418ee339f02f
+SHA1: c132ffc37bea0357a186c8a7fee05c1de8c9ac12
+SHA256: cb11d55871088c29a93d60938638db37321a95935d8d971aa37ff33240cdb814
+SHA512: 31290dc7feb5bb00324422e7f360a02f4a70660c2614b54689a45d6e13ea778742bdb80e95deaede5ba50ecd4e553ccb87cc13626d8dbb3b286c6217fec440b1
 Homepage: https://github.com/dachshund-ncu/rt4svpp
 Description: rt4sv++
   For visualizing rt4 data.
-   Version 1.40
+   Version 1.41
 
